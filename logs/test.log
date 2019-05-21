@@ -1,0 +1,598 @@
+2019/05/18 09:10:09.941 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 09:10:11.240 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 09:10:21.336 [E] [ranking.go:19]  id is error,player:"ljy" 
+2019/05/18 09:10:21.337 [D] [server.go:2697]  |            ::1|[42m 200 [0m|          1ms|   match|[44m GET     [0m /ranking   r:/ranking
+2019/05/18 09:10:21.829 [E] [ranking.go:19]  id is error,player:"ljy" 
+2019/05/18 09:10:21.829 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /ranking   r:/ranking
+2019/05/18 09:10:49.155 [E] [ranking.go:19]  id is error,player:"ljy" 
+2019/05/18 09:10:49.155 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /ranking   r:/ranking
+2019/05/18 09:10:49.211 [E] [ranking.go:19]  id is error,player:"ljy" 
+2019/05/18 09:10:49.215 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        3.5ms|   match|[44m GET     [0m /ranking   r:/ranking
+2019/05/18 09:13:49.158 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 09:13:51.352 [E] [ranking.go:21]  id is error,player:"ljy" 
+2019/05/18 09:13:51.353 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /ranking   r:/ranking
+2019/05/18 09:14:12.872 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 09:14:16.075 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 09:14:42.399 [E] [ranking.go:21]  id is error,player:asdf 
+2019/05/18 09:14:42.400 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /ranking   r:/ranking
+2019/05/18 09:18:30.517 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 09:18:31.775 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/18 10:01:18.095 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 14:40:26.879 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 14:41:45.244 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:09:51.712 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:11:49.433 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:12:15.738 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 15:19:25.564 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 15:21:42.009 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 15:22:59.624 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 15:24:09.666 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 15:24:09.688 [D] [redisCtrl.go:73]  redisCtrl UpdataById 
+2019/05/20 15:24:09.689 [D] [redisCtrl.go:95]  redisCtrl AddUserList 
+2019/05/20 15:24:10.283 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:29:21.061 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:29:21.082 [E] [redisCtrl.go:64]  josn.Unmarshal err =  unexpected end of JSON input 
+2019/05/20 15:29:21.082 [D] [redisCtrl.go:72]  redisCtrl UpdataById 
+2019/05/20 15:29:21.083 [D] [redisCtrl.go:94]  redisCtrl AddUserList 
+2019/05/20 15:29:21.671 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:30:53.934 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:30:53.952 [D] [redisCtrl.go:72]  redisCtrl UpdataById 
+2019/05/20 15:30:53.952 [D] [redisCtrl.go:94]  redisCtrl AddUserList 
+2019/05/20 15:30:54.568 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:32:06.829 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:32:06.849 [D] [redisCtrl.go:73]  redisCtrl UpdataById 
+2019/05/20 15:32:06.849 [D] [redisCtrl.go:95]  redisCtrl AddUserList 
+2019/05/20 15:32:07.409 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:32:33.469 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:33:39.536 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:33:39.555 [D] [redisCtrl.go:74]  redisCtrl UpdataById 
+2019/05/20 15:33:39.555 [D] [redisCtrl.go:96]  redisCtrl AddUserList 
+2019/05/20 15:33:40.122 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:34:12.188 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:34:12.205 [D] [redisCtrl.go:74]  redisCtrl UpdataById 
+2019/05/20 15:34:12.206 [D] [redisCtrl.go:96]  redisCtrl AddUserList 
+2019/05/20 15:35:02.284 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 15:35:21.358 [D] [redisCtrl.go:49]  redisCtrl GetUserById 
+2019/05/20 15:35:21.377 [D] [redisCtrl.go:74]  redisCtrl UpdataById 
+2019/05/20 15:35:21.377 [D] [redisCtrl.go:96]  redisCtrl AddUserList 
+2019/05/20 15:35:33.470 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 16:20:40.592 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:20:40.617 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/20 16:20:40.618 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/20 16:20:40.618 [D] [redisCtrl.go:113]  redisCtrl GetRankListByType 
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:40.618 [D] [main.go:37]   
+2019/05/20 16:20:41.269 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 16:21:17.180 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:21:17.198 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/20 16:21:17.199 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/20 16:21:17.200 [D] [redisCtrl.go:113]  redisCtrl GetRankListByType 
+2019/05/20 16:21:17.200 [D] [redisCtrl.go:132]  player  0 ---name: sdfasdf 
+2019/05/20 16:21:17.201 [D] [main.go:37]   
+2019/05/20 16:21:17.201 [D] [main.go:37]   
+2019/05/20 16:21:17.202 [D] [main.go:37]   
+2019/05/20 16:21:17.202 [D] [main.go:37]   
+2019/05/20 16:21:17.202 [D] [main.go:37]   
+2019/05/20 16:21:17.203 [D] [main.go:37]   
+2019/05/20 16:21:17.203 [D] [main.go:37]   
+2019/05/20 16:21:17.204 [D] [main.go:37]   
+2019/05/20 16:21:17.204 [D] [main.go:37]   
+2019/05/20 16:21:17.204 [D] [main.go:37]   
+2019/05/20 16:21:17.205 [D] [main.go:37]  sdfasdf 
+2019/05/20 16:21:17.768 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 16:23:28.241 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:23:28.266 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/20 16:23:28.266 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/20 16:23:28.267 [D] [redisCtrl.go:113]  redisCtrl GetRankListByType 
+2019/05/20 16:23:28.267 [D] [redisCtrl.go:132]  player  0 ---name: sdfasdf 
+2019/05/20 16:23:28.267 [D] [main.go:37]  sdfasdf 
+2019/05/20 16:23:28.824 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 16:23:50.287 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:23:50.310 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/20 16:23:50.311 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/20 16:23:50.311 [D] [redisCtrl.go:113]  redisCtrl GetRankListByType 
+2019/05/20 16:23:50.849 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/20 16:24:22.886 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:24:22.904 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/20 16:24:22.905 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/20 16:24:22.905 [D] [redisCtrl.go:113]  redisCtrl GetRankListByType 
+2019/05/20 16:26:17.643 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:26:17.662 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/20 16:26:17.662 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/20 16:26:17.663 [D] [redisCtrl.go:113]  redisCtrl GetRankListByType 
+2019/05/20 16:30:08.075 [D] [redisCtrl.go:50]  redisCtrl GetUserById 
+2019/05/20 16:30:08.097 [E] [main.go:29]  &{sdfasdf 100 www.baidu.com} 
+2019/05/21 10:04:59.196 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:06:02.940 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        6.5ms|   match|[44m GET     [0m /     r:/
+2019/05/21 10:06:03.034 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        1.5ms|   match|[44m GET     [0m /static/js/reload.min.js
+2019/05/21 10:08:24.301 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/rankcontroller/getranking.tpl
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/template.go:75
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:306
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:257
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:237
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:865
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 10:08:24.312 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 10:08:24.313 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 10:08:24.313 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  the request url is  /api/update
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/rankcontroller/updatauserdata.tpl
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/template.go:75
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:306
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:257
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:237
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:865
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 10:10:45.209 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 10:10:45.209 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 10:23:55.156 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:24:01.111 [D] [server.go:2697]  |            ::1|[43m 404 [0m|        500µs| nomatch|[44m GET     [0m /api/rang
+2019/05/21 10:24:06.146 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:24:06.165 [D] [server.go:2697]  |            ::1|[42m 200 [0m|         19ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:24:32.146 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:30:52.195 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:30:55.723 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:31:07.649 [D] [server.go:2697]  |            ::1|[42m 200 [0m|      11.927s|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:31:22.825 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:31:22.826 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:31:40.603 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:31:40.603 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:31:42.467 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:31:42.467 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:32:04.740 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:32:04.741 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:32:10.531 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:32:10.531 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:32:12.496 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:32:12.496 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:32:39.648 [D] [server.go:2697]  |            ::1|[43m 404 [0m|           0s| nomatch|[44m GET     [0m /api/updata
+2019/05/21 10:32:59.662 [C] [asm_amd64.s:573]  the request url is  /api/update
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/rankcontroller/updatauserdata.tpl
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/template.go:75
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:306
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:257
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:237
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:865
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 10:32:59.663 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 10:32:59.665 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  the request url is  /api/update
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/rankcontroller/updatauserdata.tpl
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/template.go:75
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:306
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:257
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:237
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:865
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 10:33:43.782 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 10:33:43.782 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 10:33:45.597 [C] [asm_amd64.s:573]  the request url is  /api/update
+2019/05/21 10:33:45.597 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/rankcontroller/updatauserdata.tpl
+2019/05/21 10:33:45.597 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/template.go:75
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:306
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:257
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:237
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:865
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 10:33:45.598 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 10:33:45.598 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 10:33:49.702 [C] [asm_amd64.s:573]  the request url is  /api/update
+2019/05/21 10:33:49.703 [C] [asm_amd64.s:573]  Handler crashed with error can't find templatefile in the path:views/rankcontroller/updatauserdata.tpl
+2019/05/21 10:33:49.703 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 10:33:49.703 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 10:33:49.703 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/template.go:75
+2019/05/21 10:33:49.703 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:306
+2019/05/21 10:33:49.703 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:257
+2019/05/21 10:33:49.704 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/controller.go:237
+2019/05/21 10:33:49.704 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:865
+2019/05/21 10:33:49.704 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 10:33:49.704 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 10:33:49.705 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 10:33:49.706 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 10:34:12.743 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:34:16.757 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:36:15.998 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:36:28.093 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:36:38.033 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:36:51.513 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:36:54.787 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:37:25.095 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:37:25.656 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:37:28.631 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:38:00.619 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:38:04.402 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:38:06.646 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:38:20.032 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:38:23.953 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:38:40.301 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:38:53.865 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:39:01.450 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:39:34.285 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:39:41.377 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:39:45.391 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:40:28.000 [D] [server.go:2697]  |            ::1|[42m 200 [0m|     18.0645s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:41:23.507 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:42:34.601 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:42:39.532 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:42:39.545 [D] [server.go:2697]  |            ::1|[42m 200 [0m|         13ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:43:35.056 [D] [redisCtrl.go:110]  redisCtrl GetRankListByType 
+2019/05/21 10:43:35.057 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 10:44:20.743 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:44:20.746 [D] [server.go:2697]  |            ::1|[42m 200 [0m|     39.9745s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:44:20.746 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 10:44:20.746 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/21 10:44:20.747 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:44:20.748 [E] [scoreRank.go:66]  UpdataPlayerData--AddUserToRankList:用户添加失败1 
+2019/05/21 10:44:20.750 [D] [server.go:2697]  |            ::1|[42m 200 [0m|       1.606s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:44:31.672 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:44:31.674 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:44:31.674 [E] [scoreRank.go:66]  UpdataPlayerData--AddUserToRankList:用户添加失败1 
+2019/05/21 10:44:31.675 [D] [server.go:2697]  |            ::1|[42m 200 [0m|       6.199s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:45:56.200 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:45:56.200 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:45:56.200 [E] [scoreRank.go:66]  UpdataPlayerData--AddUserToRankList:用户添加失败1 
+2019/05/21 10:45:56.201 [D] [server.go:2697]  |            ::1|[42m 200 [0m|       3.713s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:46:14.124 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:46:14.124 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:46:14.125 [E] [scoreRank.go:66]  UpdataPlayerData--AddUserToRankList:用户添加失败1 
+2019/05/21 10:46:14.125 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:46:29.831 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:46:36.228 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:46:58.458 [E] [scoreRank.go:66]  UpdataPlayerData--AddUserToRankList:用户添加失败1 
+2019/05/21 10:46:58.458 [D] [server.go:2697]  |            ::1|[42m 200 [0m|     28.6265s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:47:16.517 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:47:22.002 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:48:03.307 [E] [scoreRank.go:66]  UpdataPlayerData--AddUserToRankList:用户添加失败1 
+2019/05/21 10:48:03.307 [D] [server.go:2697]  |            ::1|[42m 200 [0m|     46.7905s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:49:32.203 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 10:49:39.381 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:49:39.393 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:49:45.261 [D] [server.go:2697]  |            ::1|[42m 200 [0m|       5.881s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:50:09.941 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:50:09.941 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 10:50:13.549 [D] [server.go:2697]  |            ::1|[42m 200 [0m|       3.608s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 10:50:52.959 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 10:50:52.960 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 13:49:39.098 [D] [server.go:2697]  |            ::1|[42m 200 [0m|2h58m46.1385s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 13:50:31.913 [D] [server.go:2697]  |            ::1|[43m 404 [0m|        500µs| nomatch|[44m GET     [0m /api/ranking
+2019/05/21 13:51:03.173 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 13:51:06.669 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:51:06.671 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        5.5ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 13:51:36.145 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:51:36.146 [D] [server.go:2697]  |            ::1|[42m 200 [0m|          1ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 13:52:13.540 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:52:13.541 [D] [server.go:2697]  |            ::1|[42m 200 [0m|          1ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 13:52:28.494 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:52:28.499 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        4.5ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 13:52:38.000 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:52:38.002 [D] [server.go:2697]  |            ::1|[42m 200 [0m|          2ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 13:54:33.133 [D] [server.go:2697]  |            ::1|[43m 404 [0m|        500µs| nomatch|[44m GET     [0m /api/updata
+2019/05/21 13:54:55.358 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 13:54:55.359 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 13:54:55.361 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/21 13:55:02.062 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 13:55:02.062 [D] [server.go:2697]  |            ::1|[42m 200 [0m|      6.7045s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 13:55:14.936 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:55:14.936 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 13:55:14.936 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 13:55:14.936 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 13:55:14.940 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 13:55:14.940 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 13:55:14.941 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 13:55:14.941 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 13:55:14.942 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 13:55:14.943 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 13:55:24.655 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:55:24.655 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 13:55:24.655 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 13:55:24.655 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 13:55:24.656 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 13:55:24.656 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 13:55:24.656 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 13:55:24.657 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 13:55:24.657 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 13:55:24.657 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 13:55:24.657 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 13:55:24.657 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 13:56:02.119 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 13:56:02.119 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 13:56:02.119 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/21 13:56:02.119 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 13:56:02.119 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        500µs|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 13:56:56.682 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:56:56.683 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 13:56:56.683 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 13:56:56.684 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 13:56:56.684 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 13:56:56.685 [D] [redisCtrl.go:133]  player  2 ---name: dfdsdf 
+2019/05/21 13:56:56.690 [D] [redisCtrl.go:133]  player  2 ---name: dfdsdf 
+2019/05/21 13:56:56.691 [D] [redisCtrl.go:133]  player  3 ---name: 1111 
+2019/05/21 13:56:56.691 [D] [redisCtrl.go:133]  player  3 ---name: 1111 
+2019/05/21 13:56:56.692 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 13:56:56.694 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 13:56:56.694 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 13:56:56.697 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 13:56:56.698 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 13:56:56.698 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 13:57:59.144 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 13:57:59.144 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 13:57:59.145 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 13:57:59.145 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 13:57:59.145 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 13:57:59.145 [D] [redisCtrl.go:133]  player  2 ---name: dfdsdf 
+2019/05/21 13:57:59.146 [D] [redisCtrl.go:133]  player  2 ---name: dfdsdf 
+2019/05/21 13:57:59.146 [D] [redisCtrl.go:133]  player  3 ---name: 1111 
+2019/05/21 13:57:59.146 [D] [redisCtrl.go:133]  player  3 ---name: 1111 
+2019/05/21 13:57:59.146 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 13:59:44.225 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 13:59:44.226 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 13:59:44.226 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 13:59:44.227 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 13:59:48.217 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:00:23.171 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 14:00:25.199 [D] [redisCtrl.go:133]  player  0 ---name: 12345 
+2019/05/21 14:00:27.246 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 14:00:28.427 [D] [redisCtrl.go:133]  player  1 ---name: 1111 
+2019/05/21 14:00:34.222 [D] [redisCtrl.go:133]  player  2 ---name: dfdsdf 
+2019/05/21 14:00:34.222 [D] [redisCtrl.go:133]  player  2 ---name: dfdsdf 
+2019/05/21 14:00:34.222 [D] [redisCtrl.go:133]  player  3 ---name: 1111 
+2019/05/21 14:00:34.222 [D] [redisCtrl.go:133]  player  3 ---name: 1111 
+2019/05/21 14:01:10.315 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:01:13.060 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:01:13.060 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 14:01:13.060 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 14:01:13.060 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 14:01:13.060 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 14:01:13.061 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 14:01:13.062 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 14:01:13.062 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 14:01:13.062 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 14:01:36.156 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:04:20.612 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 14:04:26.529 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:04:30.927 [D] [redisCtrl.go:132]  player  0 ---name: 1111 
+2019/05/21 14:04:30.927 [D] [redisCtrl.go:132]  player  2 ---name: 1111 
+2019/05/21 14:04:30.927 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:04:30.928 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:04:30.928 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 14:04:30.928 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 14:04:30.929 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 14:04:30.930 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 14:04:30.930 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 14:04:30.930 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 14:05:30.843 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 14:05:36.516 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:05:36.527 [D] [redisCtrl.go:132]  players  0 ---name: 1111 
+2019/05/21 14:05:36.528 [D] [redisCtrl.go:132]  players  2 ---name: 1111 
+2019/05/21 14:05:36.529 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:05:36.530 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:05:36.531 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 14:05:36.532 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 14:05:36.533 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 14:06:07.273 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:06:51.476 [D] [redisCtrl.go:132]  players  0 ---name: 1111 
+2019/05/21 14:06:51.476 [D] [redisCtrl.go:132]  players  2 ---name: 1111 
+2019/05/21 14:06:51.476 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:06:51.477 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:06:51.477 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 14:06:51.477 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 14:06:51.477 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 14:06:51.477 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:06:51.477 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 14:06:51.477 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 14:06:51.477 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 14:06:51.478 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 14:06:51.478 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 14:06:51.479 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 14:06:51.479 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:06:51.479 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 14:06:51.480 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 14:06:51.480 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 14:06:51.480 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 14:06:51.480 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 14:06:51.480 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 14:06:51.481 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 14:07:04.323 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:07:04.327 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:07:04.327 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/21 14:07:04.328 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 14:07:45.738 [D] [server.go:2697]  |            ::1|[42m 200 [0m|      41.415s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 14:07:50.872 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:07:50.872 [D] [redisCtrl.go:132]  players  0 ---name: 1111 
+2019/05/21 14:07:50.872 [D] [redisCtrl.go:132]  players  2 ---name: 1111 
+2019/05/21 14:07:50.872 [D] [redisCtrl.go:132]  players  4 ---name: 1111 
+2019/05/21 14:07:50.872 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:07:50.872 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:07:50.872 [E] [scoreRank.go:32]  GetRankingList--GetRankingList:用户不存在。。。 
+2019/05/21 14:07:50.872 [C] [asm_amd64.s:573]  the request url is  /api/rank
+2019/05/21 14:07:50.872 [C] [asm_amd64.s:573]  Handler crashed with error runtime error: invalid memory address or nil pointer dereference
+2019/05/21 14:07:50.872 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:07:50.872 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:502
+2019/05/21 14:07:50.872 [C] [asm_amd64.s:573]  E:/go/src/runtime/panic.go:63
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/runtime/signal_windows.go:167
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/scoreRank/scoreRank.go:34
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/models/process/process.go:12
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/ranking/controllers/ranking.go:25
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:573
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:447
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/reflect/value.go:308
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  C:/Users/Administrator/go/src/github.com/astaxie/beego/router.go:853
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:2697
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/net/http/server.go:1830
+2019/05/21 14:07:50.873 [C] [asm_amd64.s:573]  E:/go/src/runtime/asm_amd64.s:2361
+2019/05/21 14:07:50.874 [server.go:2924]  [HTTP] http: multiple response.WriteHeader calls
+2019/05/21 14:08:33.759 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 14:08:46.019 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:08:46.038 [D] [redisCtrl.go:132]  players  0 ---name: 12345 
+2019/05/21 14:08:46.038 [D] [redisCtrl.go:132]  players  2 ---name: dfdsdf 
+2019/05/21 14:08:46.038 [D] [redisCtrl.go:132]  players  4 ---name: wedf 
+2019/05/21 14:08:46.038 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:08:46.039 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:08:46.040 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:08:46.040 [D] [server.go:2697]  |            ::1|[42m 200 [0m|       22.5ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 14:08:54.785 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:08:54.786 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 14:08:57.986 [D] [server.go:2697]  |            ::1|[42m 200 [0m|      3.2015s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 14:09:02.295 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:09:02.298 [D] [redisCtrl.go:132]  players  0 ---name: 12345 
+2019/05/21 14:09:02.300 [D] [redisCtrl.go:132]  players  2 ---name: dfdsdf 
+2019/05/21 14:09:02.300 [D] [redisCtrl.go:132]  players  4 ---name: wedf 
+2019/05/21 14:09:02.300 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:09:02.301 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:09:02.302 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:09:02.306 [D] [server.go:2697]  |            ::1|[42m 200 [0m|         11ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 14:09:05.034 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:09:05.035 [D] [redisCtrl.go:132]  players  0 ---name: 12345 
+2019/05/21 14:09:05.035 [D] [redisCtrl.go:132]  players  2 ---name: dfdsdf 
+2019/05/21 14:09:05.035 [D] [redisCtrl.go:132]  players  4 ---name: wedf 
+2019/05/21 14:09:05.035 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:09:05.035 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:09:05.036 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:09:05.036 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        1.5ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 14:11:06.704 [I] [asm_amd64.s:2361]  http server Running on http://:8080
+2019/05/21 14:11:07.113 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:11:07.140 [D] [redisCtrl.go:132]  players  0 ---name: wedf 
+2019/05/21 14:11:07.140 [D] [redisCtrl.go:132]  players  2 ---name: dfdsdf 
+2019/05/21 14:11:07.140 [D] [redisCtrl.go:132]  players  4 ---name: 12345 
+2019/05/21 14:11:07.140 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:07.140 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:07.141 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:07.141 [D] [server.go:2697]  |            ::1|[42m 200 [0m|         28ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 14:11:18.738 [D] [server.go:2697]  |            ::1|[42m 200 [0m|           0s|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 14:11:23.013 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:11:23.014 [D] [redisCtrl.go:132]  players  0 ---name: wedf 
+2019/05/21 14:11:23.014 [D] [redisCtrl.go:132]  players  2 ---name: dfdsdf 
+2019/05/21 14:11:23.014 [D] [redisCtrl.go:132]  players  4 ---name: 12345 
+2019/05/21 14:11:23.014 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:23.014 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:23.014 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:23.015 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        1.5ms|   match|[44m GET     [0m /api/rank   r:/api/rank
+2019/05/21 14:11:29.721 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:29.721 [E] [redisCtrl.go:60]  GetUserById:conn.Do err =  用户不存在。。。 
+2019/05/21 14:11:29.721 [D] [redisCtrl.go:75]  redisCtrl UpdataById 
+2019/05/21 14:11:29.722 [D] [redisCtrl.go:97]  redisCtrl AddUserList 
+2019/05/21 14:11:29.722 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        1.5ms|   match|[44m GET     [0m /api/update   r:/api/update
+2019/05/21 14:11:32.224 [D] [redisCtrl.go:111]  redisCtrl GetRankListByType 
+2019/05/21 14:11:32.224 [D] [redisCtrl.go:132]  players  0 ---name: wdfdff 
+2019/05/21 14:11:32.224 [D] [redisCtrl.go:132]  players  2 ---name: wedf 
+2019/05/21 14:11:32.224 [D] [redisCtrl.go:132]  players  4 ---name: dfdsdf 
+2019/05/21 14:11:32.224 [D] [redisCtrl.go:132]  players  6 ---name: 12345 
+2019/05/21 14:11:32.224 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:32.225 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:32.225 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:32.225 [D] [redisCtrl.go:51]  redisCtrl GetUserById 
+2019/05/21 14:11:32.225 [D] [server.go:2697]  |            ::1|[42m 200 [0m|        1.5ms|   match|[44m GET     [0m /api/rank   r:/api/rank
